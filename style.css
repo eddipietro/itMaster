@@ -1,13 +1,7 @@
-h1  {
+h1, h2 {
     background-color: black;
     color: aliceblue;
     text-align: center;
-}
-h2 {
-        background-color: black;
-        color: aliceblue;
-        text-align: center;
-    
 }
 p {
     color: green;
